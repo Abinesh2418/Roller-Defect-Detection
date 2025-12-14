@@ -1,0 +1,18 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch
+torchvision
+ultralytics
+opencv-python
+Pillow
+numpy
+pandas
+openpyxl
+matplotlib
+mysql-connector-python
+tkcalendar
+pywin32
+python-snap7
+pygrabber
+psutil
+gputil
+tqdm

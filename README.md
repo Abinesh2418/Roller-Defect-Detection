@@ -42,7 +42,7 @@ Manual inspection of industrial rollers is labor-intensive, time-consuming, and 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/DCode-v05/Welvision-App.git
+git clone https://github.com/Abinesh2418/Welvision-App.git
 cd Welvision-App
 ```
 
